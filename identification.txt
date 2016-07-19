@@ -1,0 +1,9 @@
+a. For me single threaded is a working unit that can process software every single of time
+
+b. Event Driven Architecture is a software that will organized the consumption and any other events
+
+c. The benefits of Javascript module with a module pattern is that you can have true private methods and fields.
+
+d. 
+
+e. Module Bundler combines javascipt files and provide a common JS files like loader to access.
